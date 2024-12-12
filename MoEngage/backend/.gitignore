@@ -1,0 +1,65 @@
+# Dependency directories
+node_modules/
+bower_components/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+debug.log*
+
+# Environment files
+.env
+.env.test
+.env.production
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build files
+dist/
+build/
+
+# Cache directories
+.nyc_output/
+coverage/
+.cache/
+.tmp/
+.next/
+out/
+*.tsbuildinfo
+
+# Miscellaneous
+*.bak
+*.old
+*.save
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Test coverage reports
+coverage/
+*.lcov
+
+# Temp files
+*.tmp
+*.temp
+*.swp
